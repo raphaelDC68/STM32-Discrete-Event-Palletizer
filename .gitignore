@@ -1,0 +1,31 @@
+/Debug/
+# Dossiers de configuration de l'IDE (Eclipse / STM32CubeIDE)
+.metadata/
+.settings/
+*.launch
+.ide.log
+
+# Dossiers de compilation générés
+Debug/
+Release/
+
+# Fichiers de compilation (Objets, Dépendances, Stack usage)
+*.o
+*.d
+*.su
+
+# Binaires et exécutables finaux
+*.elf
+*.bin
+*.hex
+*.list
+*.map
+
+# Fichiers Make générés automatiquement par l'IDE (optionnel)
+objects.mk
+sources.mk
+objects.list
+
+# Logs et divers
+*.log
+.DS_Store
